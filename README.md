@@ -10,15 +10,13 @@ https://github.com/softmatterlab/SOCS/ contains the **example codes** for the bo
   *ISBN:* 9780750338417 (Hardback), 9780750338431 (Ebook)<br />
 
 The example codes we provide for each chapter are organized in separate directories. <br />
-You can find dedicated discussion channel for each chapter. <br />
-Please refer to the table of content below.
-
+Please refer to the table of content below. 
 
 ### Table of content
 
-1. [Molecular Dynamics](https://github.com/softmatterlab/SOCS/tree/main/Chapter_01_Molecular_Dynamics) - [Discussion](https://github.com/softmatterlab/SOCS/discussions/7)
-2. [Ising model](https://github.com/softmatterlab/SOCS/tree/main/Chapter_02_Ising_Model) - [Discussion](https://github.com/softmatterlab/SOCS/discussions/8)
-3. [Forest Fires](https://github.com/softmatterlab/SOCS/tree/main/Chapter_03_Forest_Fires) - [Discussion](https://github.com/softmatterlab/SOCS/discussions/10)
+1. [Molecular Dynamics](https://github.com/softmatterlab/SOCS/tree/main/Chapter_01_Molecular_Dynamics) 
+2. [Ising model](https://github.com/softmatterlab/SOCS/tree/main/Chapter_02_Ising_Model) 
+3. [Forest Fires](https://github.com/softmatterlab/SOCS/tree/main/Chapter_03_Forest_Fires) 
 4. [The Game of Life](https://github.com/softmatterlab/SOCS/tree/main/Chapter_04_Game_of_Life)
 5. [Brownian Dynamics](https://github.com/softmatterlab/SOCS/tree/main/Chapter_05_Brownian_Dynamics)
 6. [Anomalous Diffusion](https://github.com/softmatterlab/SOCS/tree/main/Chapter_06_Anomalous_Diffusion)
