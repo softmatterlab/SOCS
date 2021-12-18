@@ -1,18 +1,14 @@
-# SOCS - Simulation of Complex Systems
-## Example Codes
+# Simulation of Complex Systems
 
-https://github.com/softmatterlab/SOCS/ contains the **example codes** for the book: 
+This repository contains the **example codes** for the book: 
 
   **Simulation of Complex Systems** <br />
   Aykut Argun, Agnese Callegari, Giovanni Volpe<br />
-  *Publisher:* IOP Publishing (Institute of Physics Publishing)<br />
-  *Year:* 2021<br />
+  IOP Publishing (Institute of Physics Publishing)<br />
+  2022<br />
   *ISBN:* 9780750338417 (Hardback), 9780750338431 (Ebook)<br />
 
-The example codes we provide for each chapter are organized in separate directories. <br />
-Please refer to the table of content below. 
-
-### Table of content
+### Example codes
 
 1. [Molecular Dynamics](https://github.com/softmatterlab/SOCS/tree/main/Chapter_01_Molecular_Dynamics) 
 2. [Ising model](https://github.com/softmatterlab/SOCS/tree/main/Chapter_02_Ising_Model) 
