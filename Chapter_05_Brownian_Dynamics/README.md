@@ -1,4 +1,4 @@
-## Chapter 5: Brownian dynamics - Example codes
+## Chapter 5: Brownian Dynamics - Example codes
 
 This directory contains the example codes for Chapter 5 (Brownian Dynamics) of the book [Simulation of Complex Systems](https://github.com/softmatterlab/SOCS/).<br />
 You can reach the discussion for Chapter 5 through this [link](https://github.com/softmatterlab/SOCS/discussions/14).
