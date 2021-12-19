@@ -6,7 +6,7 @@ You can reach the discussion for Chapter 3 through this [link](https://github.co
 
 ### List of the available example codes ###
 
-- **forest_fires** : code for Exercises 1.1 and 1.3. <br /> It creates a live animation of forest fires with controllable parameters.
+- **forest_fires** : code for Exercise 3.1. <br /> It creates a live animation of forest fires with controllable parameters.
 
 
 ### Links
