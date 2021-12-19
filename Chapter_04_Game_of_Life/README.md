@@ -1,7 +1,3 @@
-## Game of Life 
-
-This is a Jupyter notebook script that creates a live animation of game of life. You can use buttons to reset to different initial conditions. 
-
 ## Chapter 4: The Game of Life - Example codes
 
 This directory contains the example codes for Chapter 4 (The Game of Life) of the book [Simulation of Complex Systems](https://github.com/softmatterlab/SOCS/).<br />
