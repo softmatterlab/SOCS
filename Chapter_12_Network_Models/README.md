@@ -6,6 +6,7 @@ You can reach the discussion for Chapter 12 through this [link](https://github.c
 
 ### List of the available example codes ###
 
+- **erdos_renyi_random_graph** : code for Exercises 12.1 and 12.4. <br /> It simulates Erdős-Rényi random graphs.
 - **preferential_growth_graph** : code for Exercises 12.3 and 12.6. <br /> It simulates Albert-Barabási preferential growth graphs.
 - **small_world_graph** : code for Exercises 12.2 and 12.5. <br /> It simulates Watts-Strogatz small-world graphs.
 
