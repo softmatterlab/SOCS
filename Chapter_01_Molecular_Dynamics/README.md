@@ -1,4 +1,4 @@
-## Chapter 1: Molecular dynamics - Example codes
+## Chapter 1: Molecular Dynamics - Example codes
 
 This directory contains the example codes for Chapter 1 (Molecular Dynamics) of the book [Simulation of Complex Systems](https://github.com/softmatterlab/SOCS/).<br />
 You can reach the discussion for Chapter 1 through this [link](https://github.com/softmatterlab/SOCS/discussions/7).
