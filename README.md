@@ -26,3 +26,16 @@ This repository contains the **example codes** for the book:
 14. [Ecosystems](https://github.com/softmatterlab/SOCS/tree/main/Chapter_14_Ecosystems)
 15. [Ant-colony Optimization](https://github.com/softmatterlab/SOCS/tree/main/Chapter_15_Ant_Colony_Optimization)
 16. [The Sugarscape](https://github.com/softmatterlab/SOCS/tree/main/Chapter_16_Sugarscape)
+
+
+### Links
+
+- [IOP Publishing - Bookstore - Simulation of Complex Systems](https://store.ioppublishing.org/page/detail/Simulation-of-Complex-Systems/?K=9780750338417) 
+- [SoftMatterLab - Simulation of Complex Systems](http://softmatterlab.org/publications/book/simulation-of-complex-systems/) 
+- [GitHub - Example Codes - Simulation of Complex Systems](https://github.com/softmatterlab/SOCS/).
+
+
+### Citation
+
+Aykut Argun, Agnese Callegari & Giovanni Volpe. *Simulation of Complex Systems.* IOP Publishing, 2022.<br />
+ISBN: 9780750338417 (Hardback) 9780750338431 (Ebook).
