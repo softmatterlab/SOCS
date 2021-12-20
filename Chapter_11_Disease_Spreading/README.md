@@ -1,13 +1,12 @@
-## Chapter 7: Multiplicative Noise - Example codes
+## Chapter 11: Disease Spreading - Example codes
 
-This directory contains the example codes for Chapter 7 (Multiplicative Noise) of the book [Simulation of Complex Systems](https://github.com/softmatterlab/SOCS/).<br />
-You can reach the discussion for Chapter 7 through this [link](https://github.com/softmatterlab/SOCS/discussions/16).
+This directory contains the example codes for Chapter 11 (Disease Spreading) of the book [Simulation of Complex Systems](https://github.com/softmatterlab/SOCS/).<br />
+You can reach the discussion for Chapter 11 through this [link](https://github.com/softmatterlab/SOCS/discussions/20).
 
 
 ### List of the available example codes ###
 
-- *codes to be added soon*
-
+- **disease_spread** : code for Exercises 11.1. <br /> It creates a live simulation of the SIR model.
 
 ### Links
 
