@@ -6,7 +6,7 @@ You can reach the discussion for Chapter 15 through this [link](https://github.c
 
 ### List of the available example codes ###
 
-- *codes to be added soon*
+- **ant_colony_optimization** : code for exercise 15.7.<br /> It is a first ant-colony optimization algorithm. It plots the found path and the pheromone matrix after successive rounds.
 
 
 ### Links
