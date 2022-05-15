@@ -6,7 +6,7 @@ You can reach the discussion for Chapter 13 through this [link](https://github.c
 
 ### List of the available example codes ###
 
-- *codes to be added soon*
+- **Evolutionary_games** : for the Exercises in Chapter 13. <br /> It creates a live animation of the prisoner's dilemma on a lattice with multiple strategies.
 
 
 ### Links
