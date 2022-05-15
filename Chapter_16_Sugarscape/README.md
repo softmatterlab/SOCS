@@ -6,7 +6,9 @@ You can reach the discussion for Chapter 16 through this [link](https://github.c
 
 ### List of the available example codes ###
 
-- *codes to be added soon*
+- **Anti_gregarious** : code for Exercise 16.1.<br /> It simulates Schelling's model of segregation.
+- 
+- **Anti_gregarious** : code for Exercise 16.3.<br /> It simulates a variation of the Schelling's model of segregation.
 
 
 ### Links
