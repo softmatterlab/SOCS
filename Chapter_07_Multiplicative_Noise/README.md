@@ -6,7 +6,7 @@ You can reach the discussion for Chapter 7 through this [link](https://github.co
 
 ### List of the available example codes ###
 
-- *codes to be added soon*
+- **multiplicative_noise** : code for Exercises 7.2, 7.3, and 7.4. <br /> It creates the distribution for the particle in a box with periodic boundary condition, for constant noise, multiplicative noise with no spurious drift, and mupltiplicative noise with suprious drift.
 
 
 ### Links
