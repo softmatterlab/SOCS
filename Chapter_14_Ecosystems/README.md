@@ -6,7 +6,14 @@ You can reach the discussion for Chapter 14 through this [link](https://github.c
 
 ### List of the available example codes ###
 
-- *codes to be added soon*
+- **Explicit_Lotka_Volterra** : code for Exercises 14.3.
+It creates figure 14.4.
+
+- **Implicit_Lotka_Volterra** : code for Exercises 14.4.
+It creates figure 14.5.
+
+- **Symplectic_Lotka_Volterra** : code for Exercises 14.5.
+It creates figure 14.6.
 
 
 ### Links

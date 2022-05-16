@@ -6,7 +6,7 @@ You can reach the discussion for Chapter 4 through this [link](https://github.co
 
 ### List of the available example codes ###
 
-- **game_of_life** : code for Exercises 4.2. <br /> It creates a a live animation of the Game of Life.
+- **game_of_life** : code for Exercise 4.2. <br /> It creates a live animation of the Game of Life.
 - **glider** : code for Exercise 4.5. <br /> It simulates a simple type of glider.
 - **glider_gun** : code for Figure 4.8. <br /> It simulates a Gosper glider gun.
 

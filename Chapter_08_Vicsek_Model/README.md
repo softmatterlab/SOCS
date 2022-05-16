@@ -6,7 +6,7 @@ You can reach the discussion for Chapter 8 through this [link](https://github.co
 
 ### List of the available example codes ###
 
-- *codes to be added soon*
+- **Vicsek_model** : code for Exercises 8.4, 8.5, 8.6, and 8.7. <br /> It simulates the standard Vicsek model. The interaction range, rotational diffusion, and number of particles can be set dynamically in the animation window created.
 
 
 ### Links
